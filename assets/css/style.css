@@ -1,4 +1,17 @@
+* {
+    padding: 0;
+    margin: 1rem;
+    box-sizing: border-box;
+}
+
 #ford {
     width: 50%;
     border-radius: 2%;
+}
+
+.red-border {
+    border: 2px;
+    border-style: solid;
+    border-color: #ff0000;
+
 }
