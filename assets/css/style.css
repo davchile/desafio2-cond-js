@@ -37,7 +37,18 @@
 }
 
 article {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 1rem;
-    width: 20%;
+    width: 100%;
     
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
 }
